@@ -1,0 +1,67 @@
+<div align="center">
+
+# Dungeon & Droids
+
+*An adaptation of D&D set in the Star Wars universe.*
+
+</div>
+
+## Character Options
+
+### Backgrounds
+
+- [Aspiring Mandalorian](Content/Backgrounds/AspiringMandalorian.md)
+- [Dathomir Witch](Content/Backgrounds/DathomirWitch.md)
+- [Fallen Jedi](Content/Backgrounds/FallenJedi.md)
+- [Last Wish](Content/Backgrounds/LastWish.md)
+- [Phantom Pain](Content/Backgrounds/PhantomPain.md)
+- [Pilot](Content/Backgrounds/Pilot.md)
+- [Politician](Content/Backgrounds/Politician.md)
+- [Warnahts](Content/Backgrounds/Warnahts.md)
+
+### Races
+
+- [Cyborg](Content/Races/Cyborg.md)
+- [Dark Experiment](Content/Races/DarkExperiment.md)
+- [Reprogrammed](Content/Races/Reprogrammed.md)
+
+### Classes
+
+- [Bounty Hunter](Content/Classes/BountyHunter.md)
+- [Force Sensitive](Content/Classes/ForceSensitive.md)
+- [Soldier](Content/Classes/Soldier.md)
+- [Technician](Content/Classes/Technician.md)
+- [Voyager](Content/Classes/Voyager.md)
+
+### Subclasses
+
+- [Air Trooper](Content/SubClasses/AirTrooper.md)
+- [Artillery](Content/SubClasses/Artillery.md)
+- [Assassin](Content/SubClasses/Assassin.md)
+- [Body Guard](Content/SubClasses/BodyGuard.md)
+- [Dathomir](Content/SubClasses/Dathomir.md)
+- [Droid](Content/SubClasses/Droid.md)
+- [Hacker](Content/SubClasses/Hacker.md)
+- [Knight](Content/SubClasses/Knight.md)
+- [Medic](Content/SubClasses/Medic.md)
+- [Officer](Content/SubClasses/Officer.md)
+- [Phantom](Content/SubClasses/Phantom.md)
+- [Pirate](Content/SubClasses/Pirate.md)
+- [Poisoner](Content/SubClasses/Poisoner.md)
+- [Purifier](Content/SubClasses/Purifier.md)
+- [Resourceful](Content/SubClasses/Resourceful.md)
+- [Sharpshooter](Content/SubClasses/SharpShooter.md)
+- [Smuggler](Content/SubClasses/Smuggler.md)
+- [Specialist](Content/SubClasses/Specialist.md)
+- [Tinkerer](Content/SubClasses/Tinkerer.md)
+- [Trapper](Content/SubClasses/Trapper.md)
+- [Wizard](Content/SubClasses/Wizard.md)
+
+## Rules & Equipment
+
+- [Combat Actions](Content/CombatActions.md)
+- [Conditions](Content/Conditions.md)
+- [Weapons](Content/Equipment/Weapons.md)
+- [Armor](Content/Equipment/Armors.md)
+- [Equipment](Content/Equipment/Equipments.md)
+- [Feats](Content/Feats/Feats.md)
