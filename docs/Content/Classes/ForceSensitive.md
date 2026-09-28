@@ -27,15 +27,15 @@ Level | Proficiency Bonus | Equipment Choices | Gadget Points | Force Dice  | Fe
 As a Force Sensitive, you gain the following class features.
 
 ### Hit Points
-**Hit Dice**: 1d8 per Force Sensitive level\
-**Hit Points at 1st Level**: 8 + your Constitution modifier\
+**Hit Dice**: 1d8 per Force Sensitive level<br>
+**Hit Points at 1st Level**: 8 + your Constitution modifier<br>
 **Hit Points at Higher Levels**: 1d8 (or 5) + your Constitution modifier per Force Sensitive level after 1st
 
 ### Proficiencies
-**Armor**: light common armors, jedi armors\
-**Weapons**: Common weapons\
-**Equipment**: -\
-**Saving Throws**: Constitution, Wisdom\
+**Armor**: light common armors, jedi armors<br>
+**Weapons**: Common weapons<br>
+**Equipment**: -<br>
+**Saving Throws**: Constitution, Wisdom<br>
 **Skills**: Choose two skills from Acrobatics, Insight, History, Arcane, Animal Handling, and Survival
 
 ### Equipment
@@ -44,12 +44,12 @@ You start with the following equipment, in addition to the equipment granted by 
 - a common weapon
 
 ### Equipment Choices
-The Force Sensitive table shows how many equipments you can carry, and how many points you have to use gadgets.\
-You regain all expended gadget points when you finish a long rest.\
+The Force Sensitive table shows how many equipments you can carry, and how many points you have to use gadgets.<br>
+You regain all expended gadget points when you finish a long rest.<br>
 At 1st level and every level that increases the number of equipment choices, choose one [piece of equipment](../Equipment/Equipments.md) from the list.
 
 ### Force Power
-The Force within you offers you supernatural abilities.\
+The Force within you offers you supernatural abilities.<br>
 - 5ft Blindsight
 - Your jumps are empowered by 10ft in length and height
 - Your falling damage is reduced by your Wisdom modifier * proficiency bonus
@@ -66,10 +66,10 @@ Domain                                          |
 [Domain of Dathomir](../SubClasses/Dathomir.md)
 
 ### Force Tricks
-At 2nd level, you learn other ways to use your powers.\
-You have multiple Force Dies, evolving with you, as shown is the Force Sensitive table.\
-Each Force Trick consume one Force Die when used, and you can consume more to increase their effect (number in **bold**) by the same amount of dice. However, you can spend a maximum number of Force Dice equal to your proficiency bonus on one Force Trick.\
-A trick need an action and can be used as an extra attack and has a 30ft range.\
+At 2nd level, you learn other ways to use your powers.<br>
+You have multiple Force Dies, evolving with you, as shown is the Force Sensitive table.<br>
+Each Force Trick consume one Force Die when used, and you can consume more to increase their effect (number in **bold**) by the same amount of dice. However, you can spend a maximum number of Force Dice equal to your proficiency bonus on one Force Trick.<br>
+A trick need an action and can be used as an extra attack and has a 30ft range.<br>
 Choose three tricks among the list below.
 
 Trick         | Casting time | Effect
@@ -97,25 +97,25 @@ Beginning at 3rd level, while you are wearing no armor and not wielding a shield
 When you reach 4th level, 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ### Force Versatility (Optional)
-Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a force trick you know with another one.\
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a force trick you know with another one.<br>
 If you don't replace a force trick, you can replace one gadget by another one.
 
 ### Voice of Nature
 At 7th level, you gain expertise with Nature or Animal Handling.
 
 ### Stillness of mind
-At 10th level, you gain the ability to diffuse violent situations.\
-Whenever you make a Charisma check to calm violent emotions or to counsel peace, you have advantage on the roll.\
+At 10th level, you gain the ability to diffuse violent situations.<br>
+Whenever you make a Charisma check to calm violent emotions or to counsel peace, you have advantage on the roll.<br>
 You must make this entreaty in good faith; it doesn’t apply if proficiency in the Deception or Intimidation skill applies to your check.
 
 You also gain proficiency in the Performance or Persuasion skill (choose one).
 
 ### Wind steps
-At 13th level, you can use Dash with a bonus action.\
+At 13th level, you can use Dash with a bonus action.<br>
 Moreover your walking speed increase by 10ft.
 
 ### Evasion
-At 17th level, your instinctive agility lets you dodge out of the way of certain area effects.\
+At 17th level, your instinctive agility lets you dodge out of the way of certain area effects.<br>
 When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ### Midichlorian Rush

@@ -3,7 +3,7 @@
 Your equipment uses your Charisma modifier.
 
 ## Artillery trained
-Beginning when you choose this archetype at 3rd level, you gain proficiency with rocket launchers, miniguns, and bombs.\
+Beginning when you choose this archetype at 3rd level, you gain proficiency with rocket launchers, miniguns, and bombs.<br>
 
 ## Overloaded
 At 7th level, you gain an amount of Gadget Points equal to your level.

@@ -1,10 +1,6 @@
-<div align="center">
-
 # Dungeon & Droids
 
 *An adaptation of D&D set in the Star Wars universe.*
-
-</div>
 
 ## Character Options
 
@@ -62,6 +58,6 @@
 - [Combat Actions](Content/CombatActions.md)
 - [Conditions](Content/Conditions.md)
 - [Weapons](Content/Equipment/Weapons.md)
-- [Armor](Content/Equipment/Armors.md)
+- [Armors](Content/Equipment/Armors.md)
 - [Equipment](Content/Equipment/Equipments.md)
 - [Feats](Content/Feats/Feats.md)

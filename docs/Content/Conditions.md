@@ -15,5 +15,5 @@ A poisoned creature has disadvantage on attack rolls and ability checks.
 Taking damage doesn't cancel your overwatch. You don't feel the penalties of one level of exhaustion.
 
 ## Blinded
-A blinded creature can’t see and automatically fails any ability check that requires sight.\
+A blinded creature can’t see and automatically fails any ability check that requires sight.<br>
 Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage.

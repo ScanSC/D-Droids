@@ -27,15 +27,15 @@ Level | Proficiency Bonus | Equipment Choices | Gadget Points | Features
 As a bounty hunter, you gain the following class features.
 
 ### Hit Points
-**Hit Dice**: 1d8 per Bounty Hunter level\
-**Hit Points at 1st Level**: 8 + your Constitution modifier\
+**Hit Dice**: 1d8 per Bounty Hunter level<br>
+**Hit Points at 1st Level**: 8 + your Constitution modifier<br>
 **Hit Points at Higher Levels**: 1d8 (or 5) + your Constitution modifier per Bounty Hunter level after 1st
 
 ### Proficiencies
-**Armor**: light and medium common armors, all common shields, small ionic shields\
-**Weapons**: Common simple weapons, ionic blaster and precision rifle\
-**Equipment**: All grenades, Thermal Goggles, Night-vision Goggles, Laser Cutter\
-**Saving Throws**: Strength, Wisdom\
+**Armor**: light and medium common armors, all common shields, small ionic shields<br>
+**Weapons**: Common simple weapons, ionic blaster and precision rifle<br>
+**Equipment**: All grenades, Thermal Goggles, Night-vision Goggles, Laser Cutter<br>
+**Saving Throws**: Strength, Wisdom<br>
 **Skills**: Choose two skills from Acrobatics, Athletics, Insight, Deception, Intimidation, Investigation, Sleight of Hand and Survival
 
 ### Equipment
@@ -45,8 +45,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - a [tool](../Equipment/Equipments.md) you are proficient with
 
 ### Equipment Choices
-The bounty hunter table shows how much equipment you can carry and how many points you have to use on gadgets.\
-You regain all expended gadget points when you finish a long rest.\
+The bounty hunter table shows how much equipment you can carry and how many points you have to use on gadgets.<br>
+You regain all expended gadget points when you finish a long rest.<br>
 At 1st level and every level that increases the number of equipment choices, choose one [piece of equipment](../Equipment/Equipments.md) from the list.
 
 ### Fighting Style
@@ -69,11 +69,11 @@ You gain the following benefits while you are unarmed or wielding only light mel
 
 - You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and melee weapons.
 - You can roll a d4 and add it to the normal damage of your unarmed strike or melee weapon.
-- When you use the Attack action with an unarmed strike or a melee weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.\
+- When you use the Attack action with an unarmed strike or a melee weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.<br>
 - When an enemy attacks you with a melee attack, you can use your reaction to try to parry the attack. You must choose to take this reaction before knowing whether the attack hits. Make a Dexterity check against its attack roll. On a success, the attack misses you and the enemy can't attack you again until the end of its turn. On a failure, the attack hits.
 
 ### Data collector
-At 2nd level, you learn to collect information from people around you.\
+At 2nd level, you learn to collect information from people around you.<br>
 Whenever you question someone to learn about someone, something, or somewhere, you add your Wisdom modifier to your Insight, Persuasion, Deception, or Intimidation checks.
 
 ### Hunting Tradition
@@ -90,7 +90,7 @@ Tradition                                          |
 When you reach 4th level, 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ### Hunter Versatility (Optional)
-Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to Bounty Hunters.\
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to Bounty Hunters.<br>
 If you don't replace a fighting style, you can replace one gadget with another.
 
 ### Extra Attack
@@ -99,13 +99,13 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 The number of attacks increases to three when you reach 15th level in this class.
 
 ### Professional Tracker
-After finding your target, losing it is the worst thing that could happen.\
-At 7th level, your trackers are no more limited to your solar system.\
+After finding your target, losing it is the worst thing that could happen.<br>
+At 7th level, your trackers are no more limited to your solar system.<br>
 Moreover, you have advantage on Survival checks to track something.
 
 ### Reputation
-You have completed many contracts and are known in the underworld.\
-At 13th level, you add your proficiency bonus to your Intimidation checks.\
+You have completed many contracts and are known in the underworld.<br>
+At 13th level, you add your proficiency bonus to your Intimidation checks.<br>
 You always find an open door among all the underworld bigwigs, unless there is a bounty on their heads.
 Additionally, any contract reward in credits is increased by 10% per Charisma modifier.
 

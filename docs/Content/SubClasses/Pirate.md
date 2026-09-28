@@ -3,8 +3,8 @@
 Your equipment uses your Charisma modifier.
 
 ## Strategic Retreat
-Beginning when you choose this archetype at 3rd level, you gain special abilities when piloting a spaceship.\
-If the spaceship didn't attack since your last turn, its AC increases by your Charisma modifier.\
+Beginning when you choose this archetype at 3rd level, you gain special abilities when piloting a spaceship.<br>
+If the spaceship didn't attack since your last turn, its AC increases by your Charisma modifier.<br>
 Moreover, you need one less turn to enter hyperspace.
 
 ## Loathsome opponent
@@ -19,5 +19,5 @@ At 13th level, your confidence propels you into battle. You can give yourself a 
 You also gain an additional way to use your Sneak Attack; you don't need advantage on the attack roll to use your Sneak Attack against a creature if you are within 5 feet of it, no other creatures are within 5 feet of you, and you don't have disadvantage on the attack roll. All the other rules for Sneak Attack still apply to you.
 
 ## Master duelist
-At 17th level, your mastery of the combat lets you turn failure into success. If you miss with an attack roll, you can roll it again with advantage.\
+At 17th level, your mastery of the combat lets you turn failure into success. If you miss with an attack roll, you can roll it again with advantage.<br>
 Once you do so, you can't use this feature again until you finish a short or long rest.

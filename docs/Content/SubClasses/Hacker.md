@@ -3,9 +3,9 @@
 Your equipment uses your Intelligence modifier.
 
 ## Protocol hijacking
-Beginning when you choose this specialty at 3rd level, you obtain a hacking device, such as a tablet, a watch, or a lens in your helmet.\
-Using an action with this device you can load Protocols in a computer or droid (turrets are considered as droids) in a 30ft range.\
-You have to make a Science ability check for the Protocol to succeed (the DC depends on the target).\
+Beginning when you choose this specialty at 3rd level, you obtain a hacking device, such as a tablet, a watch, or a lens in your helmet.<br>
+Using an action with this device you can load Protocols in a computer or droid (turrets are considered as droids) in a 30ft range.<br>
+You have to make a Science ability check for the Protocol to succeed (the DC depends on the target).<br>
 You know a number of Protocols equal to your proficiency bonus, and using one costs 1 Gadget Point.
 
 Protocol | Target   | Effect
@@ -22,8 +22,8 @@ Protocol | Target   | Effect
 The same droid can be affected by the same Protocol only once until a long rest.
 
 ## ECM Jammer
-At 6th level, you tinkered a special device. When activated every machines in your hacking range capable of seeing or communicating remotely lose these capabilities.\
-The ECM Jammer emit this effect for 1 minute.\
+At 6th level, you tinkered a special device. When activated every machines in your hacking range capable of seeing or communicating remotely lose these capabilities.<br>
+The ECM Jammer emit this effect for 1 minute.<br>
 Once you use the ECM Jammer, you can't use it again until a long rest.
 
 Moreover, your hacking range increases to 40 feet.

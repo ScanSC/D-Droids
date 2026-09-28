@@ -8,12 +8,12 @@ Your equipment uses your Charisma modifier.
 ## Dathomiri Practices
 *The practitioners of Dathomir Magic believed themselves to be casting spells rather than making use of the Force, and often were unable to make use of a "spell" without speaking its assigned name or performing the ritualized singing, dancing, chanting, and/or writing associated with it. The Nightsisters often attributed the work of the Force to the Spirits instead.*
 
-You learned to use the Force from the Dathomir witches. Choose one clan of Dathomir: if you choose the Nightsisters, use the alternative features.\
-Whenever the Force Sensitive class mentions Wisdom, replace it with Charisma.\
+You learned to use the Force from the Dathomir witches. Choose one clan of Dathomir: if you choose the Nightsisters, use the alternative features.<br>
+Whenever the Force Sensitive class mentions Wisdom, replace it with Charisma.<br>
 You have advantage on any skill rolls involving rancors.
 
 ## Allyan Magic
-At 5th level, the following Force tricks are added to your Force tricks table.\
+At 5th level, the following Force tricks are added to your Force tricks table.<br>
 When you take this feature, you can replace any of your Force tricks with the ones in this table.
 
 Trick         | Casting time | Effect
@@ -24,8 +24,8 @@ Bless         | Bonus action | You gift a part of your Force to **1** creature y
 Invisible Hand| Reaction     | When you see a creature failing a Dexterity or Strength saving throw or skill check, you can roll **1** Force Die and give it a bonus equal to half the amount.
 
 ## Night Spells (NightSisters)
-At 5th level, your Force tricks are totally corrupted by the NightSisters practices: all your Force tricks now deal <span style="color:mediumseagreen">necrotic</span> damage.\
-Moreover, the following Force tricks are added to your Force tricks table.\
+At 5th level, your Force tricks are totally corrupted by the NightSisters practices: all your Force tricks now deal <span style="color:mediumseagreen">necrotic</span> damage.<br>
+Moreover, the following Force tricks are added to your Force tricks table.<br>
 When you take this feature, you can replace any of your Force tricks with the ones in this table.
 
 Trick         | Casting time | Effect

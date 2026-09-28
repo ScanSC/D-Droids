@@ -27,15 +27,15 @@ Level | Proficiency Bonus | Equipment Choices | Gadget Points | Features
 As a Soldier, you gain the following class features
 
 ### Hit Points
-**Hit Dice**: 1d10 per Soldier level\
-**Hit Points at 1st Level**: 10 + your Constitution modifier\
+**Hit Dice**: 1d10 per Soldier level<br>
+**Hit Points at 1st Level**: 10 + your Constitution modifier<br>
 **Hit Points at Higher Levels**: 1d10 (or 6) + your Constitution modifier per Soldier level after 1st
 
 ### Proficiencies
-**Armor**: light and medium common armors, all common shields, small ionic shields\
-**Weapons**: Common simple weapons, common military weapons\
-**Equipment**: All grenades, Thermal Goggles, Night-vision Goggles\
-**Saving Throws**: Strength, Constitution\
+**Armor**: light and medium common armors, all common shields, small ionic shields<br>
+**Weapons**: Common simple weapons, common military weapons<br>
+**Equipment**: All grenades, Thermal Goggles, Night-vision Goggles<br>
+**Saving Throws**: Strength, Constitution<br>
 **Skills**: Choose two skills from Acrobatics, Athletics, Insight, Intimidation, Perception, and Survival
 
 ### Equipment
@@ -45,8 +45,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - a [tool](../Equipment/Equipments.md) you are proficient with
 
 ### Equipment Choices
-The Soldier table shows how many equipments you can carry, and how many points you have to use gadgets.\
-You regain all expended gadget points when you finish a long rest.\
+The Soldier table shows how many equipments you can carry, and how many points you have to use gadgets.<br>
+You regain all expended gadget points when you finish a long rest.<br>
 At 1st level and every level that increases the number of equipment choices, choose one [piece of equipment](../Equipment/Equipments.md) from the list.
 
 ### Fighting Style
@@ -66,7 +66,7 @@ At the start of each of your turns, you can deal 1d4 <span style="color:lightsla
 - **Akimbo**: When using one light blaster in both hands, you can fire with both as part of the same action, but with a penalty of -5 on the two attack rolls.
 
 ### Emergency stim
-You have one emergency [heal stim](../Equipment/Equipments.md) that does not count against the number of equipment you can carry. The cost of this stim is free but you can only use it on yourself.\
+You have one emergency [heal stim](../Equipment/Equipments.md) that does not count against the number of equipment you can carry. The cost of this stim is free but you can only use it on yourself.<br>
 You can use this feature once between each short rest.
 
 ### Action Surge
@@ -91,7 +91,7 @@ Archetype                                     |
 When you reach 4th level, 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ### Military Versatility (Optional)
-Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to Soldiers.\
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to Soldiers.<br>
 If you don't replace a fighting style you can replace one gadget by another one.
 
 ### Extra Attack

@@ -6,8 +6,8 @@ Your equipment uses your Intelligence modifier.
 You gain proficiency with all armors and shields.
 
 ## Jack of all Forges
-Beginning when you choose this specialty at 3rd level, you learn multiple Modifications you can apply to weapons and armor.\
-During a long rest, using Tinkerer's tools, you can apply a number of Modifications equal to your proficiency bonus.\
+Beginning when you choose this specialty at 3rd level, you learn multiple Modifications you can apply to weapons and armor.<br>
+During a long rest, using Tinkerer's tools, you can apply a number of Modifications equal to your proficiency bonus.<br>
 When trying to apply a Modification, make a Tinker's tools roll against a DC of 12 + 4 for each Modification already present on the object. On a failure, you lose one attempt.
 
 Modification         | Type         | Effect
@@ -27,11 +27,11 @@ Silencer             | Blaster      | Reduce the emitted sound when shooting to 
 Battery              | Blaster      | Increase the blaster max overheat by 50%.
 Nitrogen Condensator | Blaster      | Increase the active cooling by 1 (no effect if original cooling is 1).
 
-You can apply one Modification by weapon or armor. You can apply two at 9th level and three at 18th level.\
+You can apply one Modification by weapon or armor. You can apply two at 9th level and three at 18th level.<br>
 You can't apply the same Modification multiple times on the same object.
 
 ## That's just a moving armor
-At 6th level, you can use your armorer skills to improve your droid companion defenses.\
+At 6th level, you can use your armorer skills to improve your droid companion defenses.<br>
 Your droid companion gain AC equal to your Intelligence modifier.
 
 ## Flash of Genius
@@ -39,9 +39,9 @@ At 9th level, you've gained the ability to come up with solutions under pressure
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.
 
 ## The Right Tool for the Job
-At 14th level, you've learned how to produce exactly the tool you need.\
-With Tinkerer's tools in hand and enough scrap around you, you can create a gadget or tool.\
-This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest.\
+At 14th level, you've learned how to produce exactly the tool you need.<br>
+With Tinkerer's tools in hand and enough scrap around you, you can create a gadget or tool.<br>
+This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest.<br>
 The resulting object remains a makeshift creation, thus it is destroyed after on use, but this use is free (no Gadget Points).
 
 ## Master gunsmith

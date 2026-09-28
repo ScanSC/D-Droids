@@ -3,7 +3,7 @@
 Your equipment uses your Charisma modifier.
 
 ## The Basics
-Beginning when you choose this archetype at 3rd level, you are very good at hiding things, when you hide something you add your Charisma modifier to the DC to find it.\
+Beginning when you choose this archetype at 3rd level, you are very good at hiding things, when you hide something you add your Charisma modifier to the DC to find it.<br>
 Moreover, when taking the Dash action or Cunning action, you don't trigger overwatch attacks.
 
 ## Familiar Territory
@@ -24,5 +24,5 @@ At 9th level, you add 1d4 to any Charisma check about trading something or hidin
 At 13th level, your experience makes you able to find alternative routes through space to avoid dangers such as blockades, customs, natural hazards, or battlefields.
 
 ## Bluff
-At 17th level, when you get caught doing something forbidden, you have advantage on any Charisma check to get through it.\
+At 17th level, when you get caught doing something forbidden, you have advantage on any Charisma check to get through it.<br>
 Even if the creature that surprises you would attack on sight, yet you still have the option to attempt a bluff.

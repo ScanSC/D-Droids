@@ -1,12 +1,12 @@
 # Race modification: Cyborg
 *After a horrific event, you found yourself with your body partially replaced by robotic parts.*
 
-You must have an organic race to take this modification.\
+You must have an organic race to take this modification.<br>
 This feature is added to an existing race.
 
 **Lasting effects**: You reduce one Ability Score by 1 among Strength, Dexterity or Constitution.
 
-**Maul plagiarist**: You lose your resistance to <span style="color:mediumslateblue">ionic</span> damage. Whenever you take <span style="color:mediumslateblue">ionic</span> damage, roll a d20. On a roll of 10 or less, one of your robotic parts malfunctions.\
+**Maul plagiarist**: You lose your resistance to <span style="color:mediumslateblue">ionic</span> damage. Whenever you take <span style="color:mediumslateblue">ionic</span> damage, roll a d20. On a roll of 10 or less, one of your robotic parts malfunctions.<br>
 Choose in the following table your robotic parts. You are free to choose their look.
 
 Parts           | Effects

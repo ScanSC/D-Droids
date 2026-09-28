@@ -1,9 +1,9 @@
 # Background: Phantom Pain
 *A mission went very wrong, and you were held responsible for it. Today, your past haunts you.*
 
-**Skill Proficiencies**: Intimidation, Survival\
-**Tool Proficiencies**: Military weapons\
-**Languages**: -\
+**Skill Proficiencies**: Intimidation, Survival<br>
+**Tool Proficiencies**: Military weapons<br>
+**Languages**: -<br>
 **Equipment**: A memento from your past, a set of common clothes, and a pouch containing 10 credits
 
 ### Heart of Darkness

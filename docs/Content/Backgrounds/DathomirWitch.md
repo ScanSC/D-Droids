@@ -1,9 +1,9 @@
 # Background: Dathomir Witch
 *You are a true Dathomir Witch of Dathomir, but something drove you to leave your home far behind. You are not a NightSister*
 
-**Skill Proficiencies**: Nature, Arcane\
-**Tool Proficiencies**: -\
-**Languages**: Dathomiri\
+**Skill Proficiencies**: Nature, Arcane<br>
+**Tool Proficiencies**: -<br>
+**Languages**: Dathomiri<br>
 **Equipment**: A trinket, a set of Dathomiri clothes, and a pouch containing 15 credits
 
 ### Magicks

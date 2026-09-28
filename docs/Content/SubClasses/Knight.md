@@ -4,11 +4,11 @@
 Your equipment uses your Wisdom modifier.
 
 ## Martial training
-You gain proficiency with medium common armors, all common shields, small ionic shields, common military weapons and all grenades.\
-Choose one fighting style from the [Soldier](../Classes/Soldier.md) class.\
+You gain proficiency with medium common armors, all common shields, small ionic shields, common military weapons and all grenades.<br>
+Choose one fighting style from the [Soldier](../Classes/Soldier.md) class.<br>
 
 ## Strengthened Force
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.\
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.<br>
 Moreover, the "Boomerang" trick is no more restricted to light weapons.
 
 ## Knight's Accelerated trick

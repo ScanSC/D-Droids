@@ -3,8 +3,8 @@
 Your equipment uses your Intelligence modifier.
 
 ## Jetpack trained
-Beginning when you choose this archetype at 3rd level, you gain proficiency with jetpacks.\
-You also gain proficiency with Acrobatics.\
+Beginning when you choose this archetype at 3rd level, you gain proficiency with jetpacks.<br>
+You also gain proficiency with Acrobatics.<br>
 Moreover, you have three uses of the jetpack between two short rests.
 
 ## Jetpack Maneuver
@@ -25,8 +25,8 @@ At 10th level, you increase your jetpack flying speed by 20ft.
 Moreover, you gain a fifth use of the jetpack between two short rests and learn a second maneuver.
 
 ## Faster than light
-At 15th level you are so fast with your jetpack, enemies do not have time to react. When flying with your jetpack you always dodge overwatch and opportunity attacks if they can miss.\
-Moreover you gain a sixth use of the jetpack and dont need a bonus action anymore to fly.\
+At 15th level you are so fast with your jetpack, enemies do not have time to react. When flying with your jetpack you always dodge overwatch and opportunity attacks if they can miss.<br>
+Moreover you gain a sixth use of the jetpack and dont need a bonus action anymore to fly.<br>
 You learn a third maneuver.
 
 ## Is it a bird? Is it a plane? No. It's an air trooper

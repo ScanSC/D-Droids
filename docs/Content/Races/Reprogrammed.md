@@ -24,7 +24,7 @@ You are a droid that was used to obey orders, and it almost ended badly for you.
 
 **Sentry's Rest**: When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn’t render you unconscious, and you can see and hear as normal.
 
-**Integrated Protection**: Your body has built-in defensive layers, which determine your armor class. You can't wear armor, but a good Tinkerer could dismantle one to integrate it into you.\
+**Integrated Protection**: Your body has built-in defensive layers, which determine your armor class. You can't wear armor, but a good Tinkerer could dismantle one to integrate it into you.<br>
 
 Variant          | Prerequisite             | AC
 -----------------|--------------------------|---

@@ -3,8 +3,8 @@
 Your equipment uses your Intelligence modifier.
 
 ## Improved Droid
-Beginning when you choose this specialty at 3rd level, you spend time working on your droid companion.\
-You can now give upgrades to your droid. The droid can have an amount of upgrades equal to your proficiency modifier.\
+Beginning when you choose this specialty at 3rd level, you spend time working on your droid companion.<br>
+You can now give upgrades to your droid. The droid can have an amount of upgrades equal to your proficiency modifier.<br>
 You can replace an upgrade by another one once during a long rest where you don't repair your droid.
 
 Upgrade                  | Effect
@@ -22,8 +22,8 @@ Grenade Launcher         | The droid can throw grenades you are equipped with. T
 Copilot                  | The droid can connect to a vehicle interface to add your intelligence modifier to pilot rolls.
 
 ## Emergency Protocol
-At 6th level, you setup an emergency protocol for your droid. The emergency protocol trigger when the droid Hit Points drop to 0.\
-Once the emergency protocol triggered, it don't happen again until you've repaired the droid during a rest. \
+At 6th level, you setup an emergency protocol for your droid. The emergency protocol trigger when the droid Hit Points drop to 0.<br>
+Once the emergency protocol triggered, it don't happen again until you've repaired the droid during a rest. <br>
 
 Choose one option among those three :
 - **Last stand**: The droid recover 1 hit points
@@ -31,11 +31,11 @@ Choose one option among those three :
 - **Protection**: The droid emits an ionic dome with a radius of 10 feet and with Hit Points equal to your Intelligence modifier * your proficiency bonus.
 
 ## Synchronization
-At 9th level, whenever you attack a creature, your droid can attack (Zapzap, Opposable Thumbs, Grenade Launcher) the same target for free.\
+At 9th level, whenever you attack a creature, your droid can attack (Zapzap, Opposable Thumbs, Grenade Launcher) the same target for free.<br>
 You can use this feature once each turn.
 
 ## My Friend
-At 14th level, if your droid falls to 0 Hit Points, you have advantage on attack rolls against the creature that deals the damage until the end of combat.\
+At 14th level, if your droid falls to 0 Hit Points, you have advantage on attack rolls against the creature that deals the damage until the end of combat.<br>
 If you fall to 0 HitPoints, you can give on last instruction to your droid, it can be to flee, or to attack the creature that deals the damage. The droid has advantage on attack rolls until the end of the combat.
 
 ## What would I do without it?

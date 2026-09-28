@@ -19,6 +19,6 @@ You are a droid built from metal and blood. You were built by Dathomir witches, 
 - You are immune to disease.
 - You don’t need to eat.
 
-**Integrated Protection**. Your body has built-in defensive layers, which determine your armor class. You can't wear armor, but a good Tinkerer could dismantle one to integrate it on you.\
+**Integrated Protection**. Your body has built-in defensive layers, which determine your armor class. You can't wear armor, but a good Tinkerer could dismantle one to integrate it on you.<br>
 
 ## Choose a subcategory defining your droid from the [Reprogrammed](../Races/Reprogrammed.md) race

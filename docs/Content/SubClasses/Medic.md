@@ -3,8 +3,8 @@
 Your equipment uses your Wisdom modifier.
 
 ## Medicine PhD
-Beginning when you choose this archetype at 3rd level, you gain proficiency with medikits, defibrillators, and stim pistols.\
-You also gain proficiency with Medicine.\
+Beginning when you choose this archetype at 3rd level, you gain proficiency with medikits, defibrillators, and stim pistols.<br>
+You also gain proficiency with Medicine.<br>
 Moreover, when you roll dice to heal a target, you treat 1 as 2.
 
 ## Walking Ambulance
@@ -19,5 +19,5 @@ Moreover, when rolling a Medicine check to use a medikit, you treat 1 as 2.
 
 ## Guardian angel
 At 18th level, whenever you move toward an ally with less than half its hit points, you dodge any Overwatch or opportunity attacks if they can miss.
-Moreover, when you return a creature to 1 hit point, it can roll a number of Hit Dice equal to your proficiency bonus and regain that many hit points.\
+Moreover, when you return a creature to 1 hit point, it can roll a number of Hit Dice equal to your proficiency bonus and regain that many hit points.<br>
 The creature does not lose those Hit Dice, but can't benefit from this feature until a long rest.

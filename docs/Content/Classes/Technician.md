@@ -27,15 +27,15 @@ Level | Proficiency Bonus | Equipment Choices | Gadget Points | Features
 As a Technician, you gain the following class features.
 
 ### Hit Points
-**Hit Dice**: 1d6 per Technician level\
-**Hit Points at 1st Level**: 6 + your Constitution modifier\
+**Hit Dice**: 1d6 per Technician level<br>
+**Hit Points at 1st Level**: 6 + your Constitution modifier<br>
 **Hit Points at Higher Levels**: 1d6 (or 4) + your Constitution modifier per Technician level after 1st
 
 ### Proficiencies
-**Armor**: light common armors, all ionic shields\
-**Weapons**: Common simple weapons, all blasters\
-**Equipment**: All grenades, Stim Pistol, Defibrillator, Binoculars, Thermal Goggles, Night-vision Goggles, Jetpack, Tracker, Tinker's tool, Hacking tool, Laser Cutter, Bomb\
-**Saving Throws**: Charisma, Intelligence\
+**Armor**: light common armors, all ionic shields<br>
+**Weapons**: Common simple weapons, all blasters<br>
+**Equipment**: All grenades, Stim Pistol, Defibrillator, Binoculars, Thermal Goggles, Night-vision Goggles, Jetpack, Tracker, Tinker's tool, Hacking tool, Laser Cutter, Bomb<br>
+**Saving Throws**: Charisma, Intelligence<br>
 **Skills**: Choose two skills from Science, Investigation, Insight, Persuasion and Perception
 
 ### Equipment
@@ -45,19 +45,19 @@ You start with the following equipment, in addition to the equipment granted by 
 - two [tools](../Equipment/Equipments.md) you are proficient with
 
 ### Equipment Choices
-The Technician table shows how many equipments you can carry, and how many points you have to use gadgets.\
-You regain all expended gadget points when you finish a long rest.\
+The Technician table shows how many equipments you can carry, and how many points you have to use gadgets.<br>
+You regain all expended gadget points when you finish a long rest.<br>
 At 1st level and every level that increases the number of equipment choices, choose one [piece of equipment](../Equipment/Equipments.md) from the list.
 
 ### Droid Companion
-At 1st level, you are accompanied by an astromech you have repaired.\
+At 1st level, you are accompanied by an astromech you have repaired.<br>
 During your turn, you can give it any movement instruction for free.
 
-**Droid Stat Block**\
-**Hit points**: Technician level * (2 + Constitution modifier)\
-**Proficiency bonus**: Your proficiency bonus\
-**AC**: 12\
-**Language**: Binary, understand Common\
+**Droid Stat Block**<br>
+**Hit points**: Technician level * (2 + Constitution modifier)<br>
+**Proficiency bonus**: Your proficiency bonus<br>
+**AC**: 12<br>
+**Language**: Binary, understand Common<br>
 **Speed**: 20ft walk speed
 
   STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA
@@ -74,13 +74,13 @@ Emergency stim     | Bonus action | Throw a healing stim to a creature within 30
 Computer Interface | Bonus action | Connect to an electronic device and can read data or execute simple instructions provided it is allowed to do so.
 Basics             | Bonus action | You command the droid to take the Dash, Disengage, or Help action.
 
-When the droid's hit points drop to 0, it is considered out of service and can't do anything.\
-You can repair the droid during rests: \
-For short rests the droid recovers a number of d6 equal to your Intelligence modifier.\
+When the droid's hit points drop to 0, it is considered out of service and can't do anything.<br>
+You can repair the droid during rests: <br>
+For short rests the droid recovers a number of d6 equal to your Intelligence modifier.<br>
 For long rests the droid recovers a number of d6 equal to your Intelligence modifier * 2.
 
 ### Integrated Tool
-Beginning at 2nd level, you integrate a tool to your droid. Choose one [tool](../Equipment/Equipments.md) among the following list.\
+Beginning at 2nd level, you integrate a tool to your droid. Choose one [tool](../Equipment/Equipments.md) among the following list.<br>
 You can use a bonus action to order your droid to use the tool. Your droid is proficient with it.
 
 Tool          |
@@ -112,17 +112,17 @@ When you reach 4th level, 8th, 12th, 16th, and 19th level, you can increase one 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ### Droid Expert
-You know almost everything about droids.\
+You know almost everything about droids.<br>
 At 7th level, you have advantage on any Science check to determine a droid's capabilities.
 
 ### One Step Ahead
-You might think you act before you think, but it's just that you think very fast.\
+You might think you act before you think, but it's just that you think very fast.<br>
 At 7th level, you can add your intelligence modifier to your initiative rolls.
 
 ### Gadget Box
-At 9th level, you never go out without extra resources. Using an action, you can give gadget points to your allies.\
-Use your action to drop the box on the floor. Any creature can replenish gadget points by interacting with it using a bonus action.\
-The box contains a number of gadget points equal to 2d4 + your intelligence modifier.\
+At 9th level, you never go out without extra resources. Using an action, you can give gadget points to your allies.<br>
+Use your action to drop the box on the floor. Any creature can replenish gadget points by interacting with it using a bonus action.<br>
+The box contains a number of gadget points equal to 2d4 + your intelligence modifier.<br>
 Once you use this feature, you can't do so until a long rest.
 
 ### Expert

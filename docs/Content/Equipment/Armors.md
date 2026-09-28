@@ -76,9 +76,9 @@ Your armor protects you from blades and spikes. While wearing the full armor, yo
 This shield is attached to your arm, keeping your hand free.
 
 ### Ionic shield x - 1dy
-A ionic shield take more easily the shots but have a limited capacity.\
-x represent the maximal Hit Points of the shield. Every time you get hit by an attack roll, the shield takes the damages. If the damages exceed the shield remaining Hit Points, you still get hit but the damages are reduced by the Hit Points the shield had.\
-At the beginning of your turn, the shield gain 1dy Hit Points.\
+A ionic shield take more easily the shots but have a limited capacity.<br>
+x represent the maximal Hit Points of the shield. Every time you get hit by an attack roll, the shield takes the damages. If the damages exceed the shield remaining Hit Points, you still get hit but the damages are reduced by the Hit Points the shield had.<br>
+At the beginning of your turn, the shield gain 1dy Hit Points.<br>
 Ionic shields are luminous, thus giving you disadvantage on Stealth checks, but you can turn them off.
 
 ### Pressurized

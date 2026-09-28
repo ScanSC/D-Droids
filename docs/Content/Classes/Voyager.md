@@ -27,15 +27,15 @@ Level | Proficiency Bonus | Equipment Choices | Gadget Points | Sneak Attack | F
 As a Voyager, you gain the following class features
 
 ### Hit Points
-**Hit Dice**: 1d8 per Voyager level\
-**Hit Points at 1st Level**: 8 + your Constitution modifier\
+**Hit Dice**: 1d8 per Voyager level<br>
+**Hit Points at 1st Level**: 8 + your Constitution modifier<br>
 **Hit Points at Higher Levels**: 1d8 (or 5) + your Constitution modifier per Voyager level after 1st
 
 ### Proficiencies
-**Armor**: light common armors\
-**Weapons**: Common simple weapons, ionic blaster and precision rifle\
-**Equipment**: All grenades, Thermal Goggles, Night-vision Goggles, Laser Cutter, Common Spaceships\
-**Saving Throws**: Dexterity, Charisma\
+**Armor**: light common armors<br>
+**Weapons**: Common simple weapons, ionic blaster and precision rifle<br>
+**Equipment**: All grenades, Thermal Goggles, Night-vision Goggles, Laser Cutter, Common Spaceships<br>
+**Saving Throws**: Dexterity, Charisma<br>
 **Skills**: Choose two skills from Acrobatics, Athletics, Insight, Deception, Intimidation, Investigation, and Sleight of Hand and Stealth
 
 ### Equipment
@@ -45,8 +45,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - a [tool](../Equipment/Equipments.md) you are proficient with
 
 ### Equipment Choices
-The Voyager table shows how many equipments you can carry, and how many points you have to use gadgets.\
-You regain all expended gadget points when you finish a long rest.\
+The Voyager table shows how many equipments you can carry, and how many points you have to use gadgets.<br>
+You regain all expended gadget points when you finish a long rest.<br>
 At 1st level and every level that increases the number of equipment choices, choose one [piece of equipment](../Equipment/Equipments.md) from the list.
 
 ### Fighting Style
@@ -64,9 +64,9 @@ At the start of each of your turns, you can deal 1d4 <span style="color:lightsla
 - **Akimbo**: When using one light blaster in both hands, you can fire with both as part of the same action, but with a penalty of -5 on the two attack rolls.
 
 ### Sneak Attack
-Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction.\
-Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.\
-You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.\
+Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction.<br>
+Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.<br>
+You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.<br>
 You can use this feature once each turn.
 
 The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Voyager table.
@@ -87,7 +87,7 @@ Archetype                                          |
 When you reach 4th level, 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ### Voyager Versatility (Optional)
-Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to Voyagers.\
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to Voyagers.<br>
 If you don't replace a fighting style you can replace one gadget by another one.
 
 ### Extra Attack

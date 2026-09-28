@@ -3,12 +3,12 @@
 Your equipment uses your Charisma modifier.
 
 ## Polyvalent arsenal
-Beginning when you choose this archetype at 3rd level, you gain proficiency with precision rifles, binoculars, hand flamethrowers, Mandalorian vambraces, and jetpacks.\
+Beginning when you choose this archetype at 3rd level, you gain proficiency with precision rifles, binoculars, hand flamethrowers, Mandalorian vambraces, and jetpacks.<br>
 Moreover you have two use of the jetpack between two short rests.
 
 ## Mandalorian vambrace
 At 3rd level, you obtain a [mandalorian vambraces](../Equipment/Armors.md).
-Choose one equipment, weapon or shield among the following list and integrates it to one of you vambrace. You become proficient with the integrated device.\
+Choose one equipment, weapon or shield among the following list and integrates it to one of you vambrace. You become proficient with the integrated device.<br>
 Integrated equipment only needs a bonus action to activate (except for melee weapons).
 Integrated equipment can have a benefit or a penalty compared to when it is not integrated.
 
@@ -40,7 +40,7 @@ Clearance         |                                              | You can use a
 
 ## Whistling dragon
 At 11th level, You're tinkering with your integrated devices to empower them.
-whistling-bird ammo to empower it.\
+whistling-bird ammo to empower it.<br>
 Integrated Equipment                            | Upgrade
 ------------------------------------------------|--------
 [Small Ionic Shield](../Equipment/Armors.md)    | Add your Charisma modifier to the shield max Hit Points
@@ -53,6 +53,6 @@ Integrated Equipment                            | Upgrade
 [Taser](../Equipment/Equipments.md)             | Reduce cost by 1 gp
 
 ## Last resort
-At 17th level, your modify your jetpack to integrate a missile inside.\
-One time per long rest, you can use your action to shoot the missile with the same properties as the rocket launcher.\
+At 17th level, your modify your jetpack to integrate a missile inside.<br>
+One time per long rest, you can use your action to shoot the missile with the same properties as the rocket launcher.<br>
 Moreover you gain expertise in on skill you are proficient with.
