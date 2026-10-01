@@ -10,8 +10,8 @@ All classic D&D melee weapons, but made from metal and polymers.
 Name                      | Damage                                                 | Properties
 --------------------------|--------------------------------------------------------|-----------
 Grappling Boa             | 1d6 <span style="color:lightslategrey">slashing</span> | Finesse, Reach, Hidden, Grappling
-Baton electrique          | 2d4 <span style="color:dodgerblue">lightning</span>    | Finesse, Bright, Double Bladed
-Sabre laser simple        | 1d12 <span style="color:gold">radiant</span>           | Finesse, Light, Bright, Parry
+Electrostaff              | 2d4 <span style="color:dodgerblue">lightning</span>    | Finesse, Bright, Double Bladed
+Light saber               | 1d12 <span style="color:gold">radiant</span>           | Finesse, Light, Bright, Parry
 Double-bladed lightsaber  | 2d4 <span style="color:gold">radiant</span>            | Finesse, Bright, Double Bladed, Parry, Rotative
 Hidden blade              | 1d4 <span style="color:lightslategrey">piercing</span> | Finesse, Hidden
 Durasteel beskad knife    | 1d4 <span style="color:lightslategrey">slashing</span> | Finesse, Parry
@@ -80,7 +80,7 @@ Your weapon is hidden or doesn't look like a weapon.<br>
 People will not consider you to be armed because of these weapons.
 
 ### Grappling
-You can use this weapon to grapple a target.\ 
+You can use this weapon to grapple a target.<br> 
 You can grapple using the weapon's reach and use an Acrobatics check instead of Athletics.
 
 ### Beskar Blade

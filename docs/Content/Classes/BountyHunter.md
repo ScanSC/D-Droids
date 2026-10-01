@@ -33,15 +33,15 @@ As a bounty hunter, you gain the following class features.
 
 ### Proficiencies
 **Armor**: light and medium common armors, all common shields, small ionic shields<br>
-**Weapons**: Common simple weapons, ionic blaster and precision rifle<br>
-**Equipment**: All grenades, Thermal Goggles, Night-vision Goggles, Laser Cutter<br>
+**Weapons**: Common and Military weapons<br>
+**Equipment**: All grenades, Laser Cutter<br>
 **Saving Throws**: Strength, Wisdom<br>
 **Skills**: Choose two skills from Acrobatics, Athletics, Insight, Deception, Intimidation, Investigation, Sleight of Hand and Survival
 
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
-- a light or medium armor you are proficient with
-- two military weapons you are proficient with or one military weapon and a shield you are proficient with
+- a light or medium common armor
+- two common or military weapons or one common or military weapon and a shield
 - a [tool](../Equipment/Equipments.md) you are proficient with
 
 ### Equipment Choices

@@ -4,7 +4,7 @@ Your equipment uses your Wisdom modifier.
 
 ## Medicine PhD
 Beginning when you choose this archetype at 3rd level, you gain proficiency with medikits, defibrillators, and stim pistols.<br>
-You also gain proficiency with Medicine.<br>
+You also gain proficiency with Medicine if you are not already proficient with.<br>
 Moreover, when you roll dice to heal a target, you treat 1 as 2.
 
 ## Walking Ambulance

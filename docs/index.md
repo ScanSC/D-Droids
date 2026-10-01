@@ -2,6 +2,15 @@
 
 *An adaptation of D&D set in the Star Wars universe.*
 
+## Patch Note v1.0.1
+
+- Added One With the Force feature for Force-sensitive at 20th level
+- Simplified Gadgets and Tools presentation
+- Correction of given proficiencies by classes and subclasses*
+- Changed behaviour of ionic shield for Soldier/BodyGuard/Guardian feature
+- Changed starting items indications
+- Forgotten french words
+
 ## Character Options
 
 ### Backgrounds

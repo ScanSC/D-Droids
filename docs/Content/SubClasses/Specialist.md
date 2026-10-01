@@ -3,7 +3,7 @@
 Your equipment uses your Charisma modifier.
 
 ## Polyvalent arsenal
-Beginning when you choose this archetype at 3rd level, you gain proficiency with precision rifles, binoculars, hand flamethrowers, Mandalorian vambraces, and jetpacks.<br>
+Beginning when you choose this archetype at 3rd level, you gain proficiency with precision rifles, hand flamethrowers, Mandalorian vambraces, and jetpacks.<br>
 Moreover you have two use of the jetpack between two short rests.
 
 ## Mandalorian vambrace

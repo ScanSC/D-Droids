@@ -2,10 +2,6 @@
 
 Your equipment uses your Charisma modifier.
 
-## White-collar
-Beginning when you choose this archetype at 3rd level, you gain proficiency with binoculars.<br>
-You also gain proficiency with Persuasion.<br>
-
 ## Leader
 Beginning when you choose this archetype at 3rd level, you become able to give instructions, advice, or encouragement to your allies, according to your management methods.<br>
 As a bonus action, you can give an ally a 1d6 bonus to their next attack roll or saving throw.<br>

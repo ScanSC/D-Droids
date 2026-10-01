@@ -3,7 +3,7 @@
 Your equipment uses your Wisdom modifier.
 
 ## Uncanny eye
-Beginning when you choose this archetype at 3rd level, you gain proficiency with any precision rifle and binoculars.<br>
+Beginning when you choose this archetype at 3rd level, you gain proficiency with all precision rifles.<br>
 Moreover your ranged attacks ignore the enemy half cover.
 
 ## Steady Aim

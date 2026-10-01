@@ -3,15 +3,15 @@
 Your equipment uses your Charisma modifier.
 
 ## Artillery trained
-Beginning when you choose this archetype at 3rd level, you gain proficiency with rocket launchers, miniguns, and bombs.<br>
+Beginning when you choose this archetype at 3rd level, you gain proficiency with rocket launchers, miniguns, precision rifles and bombs.<br>
 
 ## Overloaded
-At 7th level, you gain an amount of Gadget Points equal to your level.
+At 7th level, you gain an amount of Gadget Points equal to your level.<br>
 Moreover you gain an additional gadget choice.
 
 ## Guilty pleasure
-At 10th level, choose one gadget you are proficient with.
-The DC of this gadget is improved by 1.
+At 10th level, choose one gadget you are proficient with.<br>
+The DC of this gadget is increased by 1.<br>
 This gadget gp cost is reduced by 1.
 
 ## Lethal technology

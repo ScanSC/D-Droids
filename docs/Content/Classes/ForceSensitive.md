@@ -40,7 +40,7 @@ As a Force Sensitive, you gain the following class features.
 
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
-- a light common armor you are proficient with or a common weapon
+- a light common armor or a common weapon
 - a common weapon
 
 ### Equipment Choices
@@ -120,3 +120,6 @@ When you are subjected to an effect that allows you to make a Dexterity saving t
 
 ### Midichlorian Rush
 At 20th level, when you roll for initiative and have less than 6 Force Dies remaining, you regain Force Dies up to a total of 6.
+
+### One With the Force
+At 20th level, you can enter in an etheral form, but there is no going back.

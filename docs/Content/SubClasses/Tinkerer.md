@@ -3,7 +3,7 @@
 Your equipment uses your Intelligence modifier.
 
 ## Armorer
-You gain proficiency with all armors and shields.
+You gain proficiency with medium and heavy armors and all armors and shields.
 
 ## Jack of all Forges
 Beginning when you choose this specialty at 3rd level, you learn multiple Modifications you can apply to weapons and armor.<br>

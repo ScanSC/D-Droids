@@ -4,7 +4,6 @@ Your equipment uses your Intelligence modifier.
 
 ## Jetpack trained
 Beginning when you choose this archetype at 3rd level, you gain proficiency with jetpacks.<br>
-You also gain proficiency with Acrobatics.<br>
 Moreover, you have three uses of the jetpack between two short rests.
 
 ## Jetpack Maneuver

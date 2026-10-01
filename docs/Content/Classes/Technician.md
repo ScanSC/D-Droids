@@ -33,15 +33,15 @@ As a Technician, you gain the following class features.
 
 ### Proficiencies
 **Armor**: light common armors, all ionic shields<br>
-**Weapons**: Common simple weapons, all blasters<br>
-**Equipment**: All grenades, Stim Pistol, Defibrillator, Binoculars, Thermal Goggles, Night-vision Goggles, Jetpack, Tracker, Tinker's tool, Hacking tool, Laser Cutter, Bomb<br>
+**Weapons**: Common and military weapons<br>
+**Equipment**: All grenades, Stim Pistol, Defibrillator, Jetpack, Tinker's tool, Hacking tool, Laser Cutter, Bomb<br>
 **Saving Throws**: Charisma, Intelligence<br>
 **Skills**: Choose two skills from Science, Investigation, Insight, Persuasion and Perception
 
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
-- a light armor you are proficient with
-- two common or military weapons you are proficient with or one weapon and a shield you are proficient with
+- a light common armor
+- two common or military weapons or one common or military weapon and a shield
 - two [tools](../Equipment/Equipments.md) you are proficient with
 
 ### Equipment Choices

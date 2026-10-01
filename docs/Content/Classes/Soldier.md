@@ -32,16 +32,16 @@ As a Soldier, you gain the following class features
 **Hit Points at Higher Levels**: 1d10 (or 6) + your Constitution modifier per Soldier level after 1st
 
 ### Proficiencies
-**Armor**: light and medium common armors, all common shields, small ionic shields<br>
-**Weapons**: Common simple weapons, common military weapons<br>
-**Equipment**: All grenades, Thermal Goggles, Night-vision Goggles<br>
+**Armor**: all common armors, all common shields, small ionic shields<br>
+**Weapons**: Common and military weapons<br>
+**Equipment**: All grenades<br>
 **Saving Throws**: Strength, Constitution<br>
 **Skills**: Choose two skills from Acrobatics, Athletics, Insight, Intimidation, Perception, and Survival
 
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
-- a light or medium armor you are proficient with
-- two common or military weapons you are proficient with or one weapon and a shield you are proficient with
+- a light or medium common armor
+- two common or military weapons or one common or military weapon and a shield
 - a [tool](../Equipment/Equipments.md) you are proficient with
 
 ### Equipment Choices

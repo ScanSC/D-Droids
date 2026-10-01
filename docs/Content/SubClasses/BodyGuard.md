@@ -3,15 +3,15 @@
 Your equipment uses your Wisdom modifier.
 
 ## Guardian
-Beginning when you choose this archetype at 3rd level, you gain proficiency with defibrillators, all ionic shields, heavy armors, deployable barriers, and ionic domes.\ 
+Beginning when you choose this archetype at 3rd level, you gain proficiency with defibrillators, all ionic shields, deployable barriers, and ionic domes.<br> 
 Moreover when a creature in a 5ft range from you get hit by an attack and you are using a shield, you can use your reaction to reduce the damage taken according to the shield used.
 Shield              | Damage reduction
 --------------------|-----------------
 Small shield        | 1d4 + Constitution modifier
 Riot shield         | 1d6 + Constitution modifier
-Small ionic shield  | 2d4 + Constitution modifier
-Medium ionic shield | 2d6 + Constitution modifier
-Riot ionic shield   | 2d8 + Constitution modifier
+Small ionic shield  | up to shield Hit Points
+Medium ionic shield | up to shield Hit Points
+Riot ionic shield   | up to shield Hit Points
 If you use this feature with an ionic shield, it uses the ionic shield's Hit Points in the same way as for yourself.
 
 ## War colossus

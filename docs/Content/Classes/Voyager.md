@@ -33,15 +33,15 @@ As a Voyager, you gain the following class features
 
 ### Proficiencies
 **Armor**: light common armors<br>
-**Weapons**: Common simple weapons, ionic blaster and precision rifle<br>
-**Equipment**: All grenades, Thermal Goggles, Night-vision Goggles, Laser Cutter, Common Spaceships<br>
+**Weapons**: Common weapons, ionic blaster and precision rifle<br>
+**Equipment**: All grenades, Laser Cutter, Common Spaceships<br>
 **Saving Throws**: Dexterity, Charisma<br>
 **Skills**: Choose two skills from Acrobatics, Athletics, Insight, Deception, Intimidation, Investigation, and Sleight of Hand and Stealth
 
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
-- a light armor you are proficient with
-- two weapons you are proficient with
+- a light common armor
+- two common weapons, or one common armor and a precision rifle or ionic blaster
 - a [tool](../Equipment/Equipments.md) you are proficient with
 
 ### Equipment Choices
