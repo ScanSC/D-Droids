@@ -196,7 +196,7 @@ Range: Touch<br>
 Cost: 2 gp<br>
 Duration: Instantaneous<br>
 You deploy the barrier in front of you. The barrier is 10 feet wide and 2 feet high, offering a half cover.<br>
-The barrier is an ionic shield with Hit Points equal to a number of d8 equal to your gadget modifier and works as an [ionic shield](./Armors.md).
+The barrier is an ionic shield with Hit Points equal to a number of d8 equal to your gadget ability modifier and works as an [ionic shield](./Armors.md).
 
 ### Ionic Dome
 Using Time: 1 bonus action<br>
@@ -204,8 +204,17 @@ Range: 20 feet + 5 ft * Strength modifier<br>
 Cost: 4 gp<br>
 Duration: Instantaneous<br>
 The dome is deployed at impact. The dome covers a 5-foot-radius sphere and offers total cover.
-The dome is an ionic shield with Hit Points equal to a number of d12 equal to your gadget modifier and works as an [ionic shield](./Armors.md).
+The dome is an ionic shield with Hit Points equal to a number of d12 equal to your gadget ability modifier and works as an [ionic shield](./Armors.md).
 
+### Grappling Hook
+Using Time: 1 bonus action<br>
+Range: 20 feet<br>
+Cost: 1 gp<br>
+Duration: Instantaneous<br>
+Using 1 Gadget Point, make a ranged attack roll against a creature within 20 feet to hook it:
+- If the creature is the same size as you, you can move it 10 feet closer to yourself in a straight line. The creature must succeed on a Strength saving throw or fall prone.
+- If the creature is larger than you, you can retract the rope to try to ride it.
+If you shoot at a surface, you don't need an attack roll, and you can retract the rope to reach that position.
 
 ## Common Tools
 *Common tools can be used by anyone and don't need any proficiency*
@@ -217,10 +226,10 @@ Allow you to see from far away. When using it, you can see twice as far.<br>
 You make a DC 10 + 2 per 30 feet from your target Perception check. On a success you double your proficiency bonus on your next attack roll on this target for this turn.
 
 ### Thermal Goggles
-Make you able to see warm creatures and objects through smokes.
+Make you able to see warm creatures and objects through smokes up to 60 feet.
 
 ### Night-vision Goggles
-Make you able to see in the dark up to 60ft.
+Make you able to see in the dark up to 60 feet.
 
 ### Tracker
 A discreet tracking device. It can be magnetized.<br>
@@ -257,12 +266,6 @@ Interacting with the jetpack, you can activate the levitation, lifting you a few
 Using a bonus action, you gain 30ft of flying speed.<br>
 
 If you end your turn in the air, you slowly descends back to the ground with the levitation active.
-
-### Whistling bird
-Using Time: 1 action - 12 / long rest<br>
-Range: 30ft<br>
-A whistling bird is a type of weapon used by Mandalorians. They are small guided munitions placed in Mandalorian vambraces which, when deployed, flew through the air while making a whistling noise before hitting the target with a small explosion.<br>
-With one action, you can shoot as many projectiles as your proficiency bonus. Each projectile deals 1d8 <span style="color:lightslategrey">piercing</span> + 1d8 <span style="color:darkorange">fire</span> damage.
 
 ### Bomb
 Using Time: 1 minute / 3 turns with proficiency<br>

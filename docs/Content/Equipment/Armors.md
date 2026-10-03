@@ -36,9 +36,9 @@ Special shields are more powerful than normal ones, but require a specific profi
 Name                  | Armor Class bonus | Constitution needed | Properties
 ----------------------|-------------------|---------------------|---------------
 Mandalorian vambrace  | +1                | 12                  | Hands free
-Small ionic shield    | -                 | 10                  | Ionic shield <span style="color:mediumslateblue">8</span> - <span style="color:cyan">1d4</span>
-Medium ionic shield   | -                 | 12                  | Ionic shield <span style="color:mediumslateblue">16</span> - <span style="color:cyan">1d8</span>
-Riot ionic shield     | -                 | 14                  | Ionic shield <span style="color:mediumslateblue">32</span> - <span style="color:cyan">2d8</span>
+Small ionic shield    | -                 | 10                  | Ionic shield <span style="color:mediumslateblue">12</span> - <span style="color:cyan">1d4</span>
+Medium ionic shield   | -                 | 12                  | Ionic shield <span style="color:mediumslateblue">24</span> - <span style="color:cyan">1d8</span>
+Large ionic shield    | -                 | 14                  | Ionic shield <span style="color:mediumslateblue">48</span> - <span style="color:cyan">2d8</span>
 
 # Properties
 

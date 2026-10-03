@@ -82,6 +82,7 @@ People will not consider you to be armed because of these weapons.
 ### Grappling
 You can use this weapon to grapple a target.<br> 
 You can grapple using the weapon's reach and use an Acrobatics check instead of Athletics.
+The weapon can be used as a [Grappling Hook](../Equipment/Equipments.md) gadget but with its own range.
 
 ### Beskar Blade
 Your weapon is made of beskar, thus its damage ignore resistance to its damage.

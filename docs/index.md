@@ -2,14 +2,12 @@
 
 *An adaptation of D&D set in the Star Wars universe.*
 
-## Patch Note v1.0.1
+## Patch Note v1.0.2
 
-- Added One With the Force feature for Force-sensitive at 20th level
-- Simplified Gadgets and Tools presentation
-- Correction of given proficiencies by classes and subclasses*
-- Changed behaviour of ionic shield for Soldier/BodyGuard/Guardian feature
-- Changed starting items indications
-- Forgotten french words
+- Changed Aspiring Mandalorian starting items and descriptions.
+- Reworked Specialist subclass
+- Ionic shields buff
+- New "Armor tweak" feat
 
 ## Character Options
 
@@ -54,7 +52,6 @@
 - [Pirate](Content/SubClasses/Pirate.md)
 - [Poisoner](Content/SubClasses/Poisoner.md)
 - [Purifier](Content/SubClasses/Purifier.md)
-- [Resourceful](Content/SubClasses/Resourceful.md)
 - [Sharpshooter](Content/SubClasses/SharpShooter.md)
 - [Smuggler](Content/SubClasses/Smuggler.md)
 - [Specialist](Content/SubClasses/Specialist.md)
@@ -69,4 +66,16 @@
 - [Weapons](Content/Equipment/Weapons.md)
 - [Armors](Content/Equipment/Armors.md)
 - [Equipment](Content/Equipment/Equipments.md)
+- [Specialist Modifications](Content/Equipment/SpecialistModifications.md)
 - [Feats](Content/Feats/Feats.md)
+
+# Past Patch Notes
+
+## Patch Note v1.0.1
+
+- Added One With the Force feature for Force-sensitive at 20th level
+- Simplified Gadgets and Tools presentation
+- Correction of given proficiencies by classes and subclasses*
+- Changed behaviour of ionic shield for Soldier/BodyGuard/Guardian feature
+- Changed starting items indications
+- Forgotten french words

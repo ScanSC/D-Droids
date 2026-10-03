@@ -1,10 +1,10 @@
 # Background: Aspiring Mandalorian
-*You are a young Mandalorian, and you have yet to prove your worth to attain the same privileges as your brethren. Your clan gave you a mission, and you will not return until you have accomplished it.*
+*You are a young Mandalorian, and you have yet to prove your worth to attain the same privileges as your brethren.*
 
 **Skill Proficiencies**: Intimidation, Survival<br>
 **Tool Proficiencies**: Military weapons, Hidden blade, Beskad blades, Beskar armors, Jetpack, Whistling Bird, all grenades<br>
 **Languages**: Mando'a<br>
-**Equipment**: Your mission instructions, a set of common clothes, and a pouch containing 15 credits
+**Equipment**: A pendant symbolizing your belonging to a Mandalorian clan, a Mandalorian Helmet, a set of common clothes, and a pouch containing 15 credits
 
 ### Prove your worth
-The day you have accomplished your mission, you will be allowed to return to your own people and obtain what is rightfully yours.
+Completing dangerous missions or beating terrifying beasts may grant you unique rewards from your clan.
