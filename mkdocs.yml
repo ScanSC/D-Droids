@@ -71,6 +71,3 @@ nav:
       - Armor: Content/Equipment/Armors.md
       - Equipment: Content/Equipment/Equipments.md
       - Feats: Content/Feats/Feats.md
-  - Quick Reference:
-      - Damage and condition colors: Colors.md
-      - Design notes: Notes.md
