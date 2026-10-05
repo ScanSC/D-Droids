@@ -12,6 +12,7 @@
 ## Rules
 
 Its use the D&D 5e 2014 rules, but without magic and with small changes :
+
 - Thunder damage is replaced by Ionic damage : Organic creatures are immune to it, but machines are vulnerable to it.
 - Radiant damage represent lasers damage (blasters and light sabers)
 - Arcane skill is for all about Force
