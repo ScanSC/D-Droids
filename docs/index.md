@@ -2,12 +2,20 @@
 
 *An adaptation of D&D set in the Star Wars universe.*
 
-## Patch Note v1.0.2
+## Patch Note v1.0.3
 
-- Changed Aspiring Mandalorian starting items and descriptions.
-- Reworked Specialist subclass
-- Ionic shields buff
-- New "Armor tweak" feat
+- Reworked Beskar properties
+- Move Ionic shields into Common Shields category
+- New "Ionic Protections" feat
+- "Rules" Section
+
+## Rules
+
+Its use the D&D 5e 2014 rules, but without magic and with small changes :
+- Thunder damage is replaced by Ionic damage : Organic creatures are immune to it, but machines are vulnerable to it.
+- Radiant damage represent lasers damage (blasters and light sabers)
+- Arcane skill is for all about Force
+- Religion is replaced by Science
 
 ## Character Options
 
@@ -70,6 +78,13 @@
 - [Feats](Content/Feats/Feats.md)
 
 # Past Patch Notes
+
+## Patch Note v1.0.2
+
+- Changed Aspiring Mandalorian starting items and descriptions.
+- Reworked Specialist subclass
+- Ionic shields buff
+- New "Armor tweak" feat
 
 ## Patch Note v1.0.1
 

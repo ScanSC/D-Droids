@@ -32,7 +32,7 @@ As a bounty hunter, you gain the following class features.
 **Hit Points at Higher Levels**: 1d8 (or 5) + your Constitution modifier per Bounty Hunter level after 1st
 
 ### Proficiencies
-**Armor**: light and medium common armors, all common shields, small ionic shields<br>
+**Armor**: light and medium common armors, all classic shields, small ionic shields<br>
 **Weapons**: Common and Military weapons<br>
 **Equipment**: All grenades, Laser Cutter<br>
 **Saving Throws**: Strength, Wisdom<br>

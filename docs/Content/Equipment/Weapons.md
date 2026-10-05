@@ -12,7 +12,7 @@ Name                      | Damage                                              
 Grappling Boa             | 1d6 <span style="color:lightslategrey">slashing</span> | Finesse, Reach, Hidden, Grappling
 Electrostaff              | 2d4 <span style="color:dodgerblue">lightning</span>    | Finesse, Bright, Double Bladed
 Light saber               | 1d12 <span style="color:gold">radiant</span>           | Finesse, Light, Bright, Parry
-Double-bladed lightsaber  | 2d4 <span style="color:gold">radiant</span>            | Finesse, Bright, Double Bladed, Parry, Rotative
+Double-bladed lightsaber  | 2d6 <span style="color:gold">radiant</span>            | Finesse, Bright, Double Bladed, Parry, Rotative
 Hidden blade              | 1d4 <span style="color:lightslategrey">piercing</span> | Finesse, Hidden
 Durasteel beskad knife    | 1d4 <span style="color:lightslategrey">slashing</span> | Finesse, Parry
 Durasteel beskad sword    | 1d8 <span style="color:lightslategrey">slashing</span> | Finesse, Parry,
@@ -40,11 +40,11 @@ Regular blaster      | 1d6 <span style="color:gold">radiant</span> | Polyvalent 
 
 Name                 | Damage                                               | Properties                  | Overheat                                                                       | Range   | Overwatch angle
 ---------------------|------------------------------------------------------|-----------------------------|--------------------------------------------------------------------------------|---------|----------------
-Military handgun     | 1d6 <span style="color:gold">radiant</span>          | Light, Shocking             | <span style="color:darkorange">8</span> - <span style="color:cyan">1d6</span>  | 90/150  | 60°
-Military blaster     | 1d4 <span style="color:gold">radiant</span>          | Polyvalent, Burst           | <span style="color:darkorange">12</span> - <span style="color:cyan">1d6</span> | 120/180 | 50°
+Military handgun     | 1d6 <span style="color:gold">radiant</span>          | Light                       | <span style="color:darkorange">8</span> - <span style="color:cyan">1d6</span>  | 90/150  | 60°
+Military blaster     | 1d6 <span style="color:gold">radiant</span>          | Polyvalent, Burst           | <span style="color:darkorange">12</span> - <span style="color:cyan">1d6</span> | 120/180 | 50°
 Heavy Blaster        | 1d4 <span style="color:gold">radiant</span>          | Polyvalent, Burst           | <span style="color:darkorange">24</span> - <span style="color:cyan">1d8</span> | 120/180 | 50°
 Ionic blaster        | 1d6 <span style="color:mediumslateblue">ionic</span> | Polyvalent                  | <span style="color:darkorange">4</span> - <span style="color:cyan">1</span>    | 120/180 | 50°
-Precision rifle      | 2d6 <span style="color:gold">radiant</span>          | Surgical, Heavy, Two-handed | <span style="color:darkorange">4</span> - <span style="color:cyan">1d4</span>  | 200/400 | 20°
+Precision rifle      | 2d6 <span style="color:gold">radiant</span>          | Surgical, Heavy, Two-handed | <span style="color:darkorange">4</span> - <span style="color:cyan">1d4</span>  | 400/800 | 20°
 Shotgun              | 1d6 <span style="color:gold">radiant</span>          | Polyvalent, Area            | <span style="color:darkorange">8</span> - <span style="color:cyan">1d4</span>  | 20      | 40°
 
 ## Special Blasters
@@ -54,8 +54,8 @@ Name                  | Damage                                      | Properties
 ----------------------|---------------------------------------------|------------------------------------------------|--------------------------------------------------------------------------------|---------|----------------
 Minigun               | 1d4 <span style="color:gold">radiant</span> | Charging, Continuous fire, Two-Handed, Heavy   | <span style="color:darkorange">10</span> - <span style="color:cyan">1d4</span> | 60/120  | 10°
 Zygerrian energy bow  | 1d8 <span style="color:gold">radiant</span> | Heavy, Two-handed                              | -                                                                              | 150/300 | 30°
-Heavy precision rifle | 2d8 <span style="color:gold">radiant</span> | Surgical, Heavy, Two-handed, Charging          | <span style="color:darkorange">2</span> - <span style="color:cyan">1</span>    | 300/600 | 10°
-Burst precision rifle | 1d8 <span style="color:gold">radiant</span> | Surgical, Heavy, Two-handed, Charging, Burst 3 | <span style="color:darkorange">6</span> - <span style="color:cyan">1d4</span>  | 150/300 | 20°
+Heavy precision rifle | 2d8 <span style="color:gold">radiant</span> | Surgical, Heavy, Two-handed, Charging          | <span style="color:darkorange">2</span> - <span style="color:cyan">1</span>    | 600/1200| 10°
+Burst precision rifle | 1d8 <span style="color:gold">radiant</span> | Surgical, Heavy, Two-handed, Charging, Burst 3 | <span style="color:darkorange">6</span> - <span style="color:cyan">1d4</span>  | 300/600 | 20°
 
 # Properties
 
@@ -85,7 +85,7 @@ You can grapple using the weapon's reach and use an Acrobatics check instead of 
 The weapon can be used as a [Grappling Hook](../Equipment/Equipments.md) gadget but with its own range.
 
 ### Beskar Blade
-Your weapon is made of beskar, thus its damage ignore resistance to its damage.
+Your weapon is made of beskar, thus its damage ignore resistance to its damage and it can't be cut by light sabers.
 
 ### Light
 A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.

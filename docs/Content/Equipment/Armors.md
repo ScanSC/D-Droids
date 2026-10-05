@@ -5,10 +5,10 @@ Name                  | Armor Class               | Strength needed | Stealth   
 ----------------------|---------------------------|-----------------|--------------|-------|-----------
 Beast hide            | 11 + Dex modifier         | 11              | Disadvantage | Light | Warm
 Phrik armor           | 11 + Dex modifier         | -               | -            | Light | Resistant
-Durasteel mesh        | 12 + Dex modifier         | -               | -            | Light | Technological; Resistant
+Durasteel mesh        | 12 + Dex modifier         | -               | -            | Light | Resistant
 Beast chitin          | 13 + Dex modifier (max 2) | 12              | Disadvantage | Medium| Warm; Flexible
-Durasteel plate       | 14 + Dex modifier (max 2) | -               | -            | Medium| Technological; Complete cover; Resistant
-Heavy durasteel plate | 17                        | 15              | Disadvantage | Heavy | Technological; Complete cover; Resistant
+Durasteel plate       | 14 + Dex modifier (max 2) | -               | -            | Medium| Complete cover; Resistant
+Heavy durasteel plate | 17                        | 15              | Disadvantage | Heavy | Complete cover; Resistant
 
 ## Special Armors
 Special armors are more powerful than normal ones, but require a specific proficiency.
@@ -16,19 +16,26 @@ Special armors are more powerful than normal ones, but require a specific profic
 Name                  | Armor Class               | Strength needed | Stealth      | Type  | Properties
 ----------------------|---------------------------|-----------------|--------------|-------|---------------
 Infiltrator Suit      | 10 + Dex modifier         | -               | Advantage    | Light | Cold fibers
-Beskar mesh           | 14 + Dex modifier         | -               | -            | Light | Fire resistance; Unbreakable 1; Resistant
-Beskar mail           | 16 + Dex modifier (max 2) | -               | Disadvantage | Medium| Fire resistance; Unbreakable 2; Complete cover; Resistant
-Beskar plate          | 19                        | 15              | Disadvantage | Heavy | Fire resistance; Pressurized; Unbreakable 3; Complete cover; Resistant
+Beskar mesh           | 14 + Dex modifier         | -               | -            | Light | Beskar; Unbreakable 1; Resistant
+Beskar mail           | 16 + Dex modifier (max 2) | -               | Disadvantage | Medium| Beskar; Unbreakable 2; Complete cover; Resistant
+Beskar plate          | 19                        | 15              | Disadvantage | Heavy | Beskar; Pressurized; Unbreakable 3; Complete cover; Resistant
 Jedi phrik armor      | 11 + Dex modifier         | -               | -            | Light | Force protection; Resistant
 Jedi durasteel plate  | 14 + Dex modifier (max 2) | 12              | -            | Medium| Force protection; Complete cover; Resistant
-Commando clone armor  | 16 + Dex modifier (max 2) | -               | -            | Medium| Fire resistance; Pressurized; Unbreakable 2; Complete cover; Resistant
+Commando clone armor  | 16 + Dex modifier (max 2) | -               | -            | Medium| Pressurized; Unbreakable 2; Complete cover; Resistant
 Cortosis plate        | 17                        | 13              | Disadvantage | Heavy | Disruptive; Fragile; Complete cover
 
 ## Common Shields
-Name                  | Armor Class bonus | Constitution needed | Properties
+
+Classic Shields       | Armor Class bonus | Constitution needed | Properties
 ----------------------|-------------------|---------------------|---------------
 Small shield          | +1                | 10                  |
 Riot shield           | +2                | 14                  |
+
+Ionic Shield          | Armor Class bonus | Constitution needed | Properties
+----------------------|-------------------|---------------------|---------------
+Small ionic shield    | -                 | 10                  | Ionic shield <span style="color:mediumslateblue">12</span> - <span style="color:cyan">1d4</span>
+Medium ionic shield   | -                 | 12                  | Ionic shield <span style="color:mediumslateblue">24</span> - <span style="color:cyan">1d8</span>
+Large ionic shield    | -                 | 14                  | Ionic shield <span style="color:mediumslateblue">48</span> - <span style="color:cyan">2d8</span>
 
 ## Special Shields
 Special shields are more powerful than normal ones, but require a specific proficiency.
@@ -36,17 +43,11 @@ Special shields are more powerful than normal ones, but require a specific profi
 Name                  | Armor Class bonus | Constitution needed | Properties
 ----------------------|-------------------|---------------------|---------------
 Mandalorian vambrace  | +1                | 12                  | Hands free
-Small ionic shield    | -                 | 10                  | Ionic shield <span style="color:mediumslateblue">12</span> - <span style="color:cyan">1d4</span>
-Medium ionic shield   | -                 | 12                  | Ionic shield <span style="color:mediumslateblue">24</span> - <span style="color:cyan">1d8</span>
-Large ionic shield    | -                 | 14                  | Ionic shield <span style="color:mediumslateblue">48</span> - <span style="color:cyan">2d8</span>
 
 # Properties
 
 ### Warm
 You are resistant to <span style="color:cyan">cold</span> damage from the environment.
-
-### Technological
-Mandatory to integrate some [modifications](../SubClasses/Tinkerer.md) to the armor.
 
 ### Flexible
 Your armor is flexible, granting you resistance to <span style="color:lightslategrey">bludgeoning</span> damage.
@@ -59,6 +60,9 @@ You have advantage on saving throws against Force powers.
 
 ### Cold fibers
 You are invisible to thermal devices.
+
+### Beskar
+You are resistant to <span style="color:gold">radiant</span> damage.
 
 ### Disruptive
 You are resistant to damage from lightsabers, and a lightsaber that hits you becomes disrupted and can't attack until the start of its wielder's next turn.

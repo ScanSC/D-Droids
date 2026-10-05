@@ -220,10 +220,8 @@ If you shoot at a surface, you don't need an attack roll, and you can retract th
 *Common tools can be used by anyone and don't need any proficiency*
 
 ### Binoculars
-Using Time: 1 bonus action<br>
-Target: A creature you can see<br>
-Allow you to see from far away. When using it, you can see twice as far.<br>
-You make a DC 10 + 2 per 30 feet from your target Perception check. On a success you double your proficiency bonus on your next attack roll on this target for this turn.
+Allow you to see and listen from far away.<br>
+Using a bonus action, you make a DC 10 + 2 per 30 feet from the chosen target Perception check. On a success you double your proficiency bonus on your next attack roll on this target for this turn.
 
 ### Thermal Goggles
 Make you able to see warm creatures and objects through smokes up to 60 feet.

@@ -4,7 +4,7 @@
 Your equipment uses your Wisdom modifier.
 
 ## Martial training
-You gain proficiency with medium common armors, all common shields, small ionic shields, common military weapons and all grenades.<br>
+You gain proficiency with medium common armors, all classic shields, small ionic shields, common military weapons and all grenades.<br>
 Choose one fighting style from the [Soldier](../Classes/Soldier.md) class.<br>
 
 ## Strengthened Force
