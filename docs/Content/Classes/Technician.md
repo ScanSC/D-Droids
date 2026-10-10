@@ -50,29 +50,28 @@ You regain all expended gadget points when you finish a long rest.<br>
 At 1st level and every level that increases the number of equipment choices, choose one [piece of equipment](../Equipment/Equipments.md) from the list.
 
 ### Droid Companion
-At 1st level, you are accompanied by an astromech you have repaired.<br>
-During your turn, you can give it any movement instruction for free.
+At 1st level, your tinkering has borne you a faithful companion, an astromech. It's friendly to you and your companions, and it obeys your commands. See its game statistics in the astromech stat block, which uses your proficiency bonus (*PB*) in several places. You determine the astromech's appearance; your choice has no effect on its game statistics.
+
+In combat, the astromech shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the astromech can take any action of its choice, not just Dodge.
 
 **Droid Stat Block**<br>
 **Hit points**: Technician level * (2 + Constitution modifier)<br>
-**Proficiency bonus**: Your proficiency bonus<br>
+**Proficiency bonus**: *PB*<br>
 **AC**: 12<br>
 **Language**: Binary, understand Common<br>
 **Speed**: 20ft walk speed
 
   STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA
 :-----:|:-----:|:-----:|:-----:|:-----:|:----:
-10 (+0)|8 (-1) |16 (+3)| Yours |8 (-1)|10 (+0)
+10 (+0)|8 (-1) |16 (+3)| Yours |8 (-1)|6 (-2)
 
-During your turn, you can give it more instructions:
-
-Instruction        | Cost         | Description
--------------------|--------------|------------
-Zapzap             | Bonus action | Melee attack roll (Int). Deal 1d6 <span style="color:dodgerblue">lightning</span> damage. A creature hit can’t take reactions until the start of its next turn
-Scanning           | Action       | Reveal any invisible or hidden creature in a 20ft radius and give you advantage on Perception ability checks in this radius.
-Emergency stim     | Bonus action | Throw a healing stim to a creature within 30 feet. Once until you take a rest.
-Computer Interface | Bonus action | Connect to an electronic device and can read data or execute simple instructions provided it is allowed to do so.
-Basics             | Bonus action | You command the droid to take the Dash, Disengage, or Help action.
+Actions            | Description
+-------------------|------------
+Zapzap             | Melee attack roll (Int). Deal 1d6 <span style="color:dodgerblue">lightning</span> damage. A creature hit can’t take reactions until the start of its next turn
+Scanning           | Reveal any invisible or hidden creature in a 20ft radius and give you advantage on Perception ability checks in this radius.
+Emergency stim     | Throw a healing stim to a creature within 30 feet. Once until you take a rest.
+Computer Interface | Connect to an electronic device and can read data or execute simple instructions provided it is allowed to do so.
+Basics             | You command the droid to take the Dash, Disengage, or Help action.
 
 When the droid's hit points drop to 0, it is considered out of service and can't do anything.<br>
 You can repair the droid during rests: <br>

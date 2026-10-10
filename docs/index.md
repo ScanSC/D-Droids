@@ -2,12 +2,9 @@
 
 *An adaptation of D&D set in the Star Wars universe.*
 
-## Patch Note v1.0.3
+## Patch Note v1.0.4
 
-- Reworked Beskar properties
-- Move Ionic shields into Common Shields category
-- New "Ionic Protections" feat
-- "Rules" Section
+- Changed Technician's astromech controls
 
 ## Rules
 
@@ -79,6 +76,13 @@ Its use the D&D 5e 2014 rules, but without magic and with small changes :
 - [Feats](Content/Feats/Feats.md)
 
 # Past Patch Notes
+
+## Patch Note v1.0.3
+
+- Reworked Beskar properties
+- Move Ionic shields into Common Shields category
+- New "Ionic Protections" feat
+- "Rules" Section
 
 ## Patch Note v1.0.2
 
